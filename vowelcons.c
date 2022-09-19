@@ -23,6 +23,6 @@ void main()
             vowel++;
         }
       }
-      printf (" the total number of vowels int the string is %d \n",vowel);
-      printf("The total number of consonant in the string is%d :  ",cons);
+      printf (" the total number of vowels in the string is %d \n",vowel);
+      printf("The total number of consonant in the string is %d :  ",cons);
 }
